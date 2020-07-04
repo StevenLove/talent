@@ -1,10 +1,13 @@
 body {
   @include body-font;
+  background-image: url("../img/mooning.png");
+  background-repeat: repeat-y;
 }
 
 p{
   font-size:1.2em;
 }
+
 
 h1,
 h2,
