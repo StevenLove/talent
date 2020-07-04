@@ -1,7 +1,7 @@
 body {
   @include body-font;
-  background-image: url("../img/mooning.png");
-  background-repeat: repeat-y;
+  background-image: url("/img/mooning.png");
+  background-repeat: repeat;
 }
 
 p{
